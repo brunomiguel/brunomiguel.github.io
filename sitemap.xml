@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://brunomiguel.github.io/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://brunomiguel.github.io/</loc>
   </url>
   
@@ -16,6 +12,10 @@
   
   <url>
     <loc>https://brunomiguel.github.io/links/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brunomiguel.github.io/about/</loc>
   </url>
   
 </urlset>
